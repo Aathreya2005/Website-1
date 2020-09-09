@@ -1,0 +1,33 @@
+/*cascading style sheet*/
+body{
+    background:rgb(15,120,15);
+    font-family: "forte"; 
+    font-size: 22px;
+    align-items: center;
+    
+
+}
+marquee{
+    color:white;
+}
+.item{
+    border:dotted;
+    border-top-color:blue ;
+    border-left-color:red ;
+    border-right-color:lightgreen ;
+    border-bottom-color:yellow ;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+}
+h1,h2{
+    color:whitesmoke;
+    font-family:Times New Roman;
+    text-align: center;
+}
+p{
+    color:whitesmoke;
+    font-family:forte;
+    text-align: center;
+}
